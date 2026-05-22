@@ -12,17 +12,35 @@ This repository demonstrates system architecture, workflow orchestration, API ga
 
 ---
 
-# Key Features
+## Key Features
+- Smart Notification Management System
+- Secure OTP Generation & Validation
+- Account Locking & Security Protection
+- Customer Registration & Digital Onboarding
+- Secure Login & Authentication
+- Password Management & Recovery
+- Deposit Account Opening Workflow
+- FDR (Fixed Deposit Receipt) Management
+- Loan Account Opening & Processing
+- Encashment Facility Management
+- E-KYC & Biometric Verification
+- Real-Time Data Validation
+- Core Banking System (CBS) Integration
+- Distributed Service Architecture
+- API Gateway Communication
+- Workflow Recovery Mechanism
+- Role-Based Access Control (RBAC)
+- Secure Enterprise API Design
+- Admin Management Console
+- Audit Logging & Activity Tracking
+- Customer Statement & Transaction Reports
+- Tax Certificate Generation
+- Balance Statement Services
+- Customer Care & Support Facility
+- Multi-Service Banking Operations
+- Enterprise Workflow Automation
 
-- API Gateway Architecture
-- Secure Private Network Segmentation
-- Distributed Microservice Communication
-- Workflow State Recovery
-- Core Banking Integration
-- Identity & Access Integration
-- Enterprise Security Design
-- High Availability Considerations
-- Scalable Service Isolation
+This application enables customers to securely access and manage various banking services including deposit accounts, FDR services, loan account opening, encashment facilities, account statements, tax certificates, balance reports, customer care services, and other enterprise banking operations through a unified digital banking platform.
 
 ---
 
