@@ -39,18 +39,18 @@ This repository demonstrates system architecture, workflow orchestration, API ga
 
 # Technology Stack
 
--ASP.NET Core (Web API, MVC)
--RESTful API Design & Development
--Microsoft SQL Server (T-SQL, Query Optimization)
--Oracle PL/SQL (Stored Procedures, Packages, Triggers)
--Active Directory Integration (Authentication & Authorization)
--Secure HTTP Communication (HTTPS, TLS, Secure Headers)
--JWT Authentication & Authorization (Token-based Security)
--Distributed Service Architecture (Scalable System Design)
--Clean Architecture (Domain-Driven Design principles)
--Microservices Architecture (Service decomposition, communication patterns)
--Kotlin Multiplatform (Cross-platform mobile development)
--Regular Expressions (Regex) for validation & parsing in web applications
+- ASP.NET Core (Web API, MVC)
+- RESTful API Design & Development
+- Microsoft SQL Server (T-SQL, Query Optimization)
+- Oracle PL/SQL (Stored Procedures, Packages, Triggers)
+- Active Directory Integration (Authentication & Authorization)
+- Secure HTTP Communication (HTTPS, TLS, Secure Headers)
+- JWT Authentication & Authorization (Token-based Security)
+- Distributed Service Architecture (Scalable System Design)
+- Clean Architecture (Domain-Driven Design principles)
+- Microservices Architecture (Service decomposition, communication patterns)
+- Kotlin Multiplatform (Cross-platform mobile development)
+- Regular Expressions (Regex) for validation & parsing in web applications
 
 ---
 
