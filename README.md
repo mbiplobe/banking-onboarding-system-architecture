@@ -71,7 +71,7 @@ As Lead Developer, responsibilities included:
 
 # Architecture Diagram
 
-![Architecture](architecture/architecture-diagram.png)
+![Architecture](Architecture/Project_Architecture.png)
 
 ---
 
