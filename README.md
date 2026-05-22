@@ -1,4 +1,4 @@
-# Enterprise Digital Onboarding Platform
+#  Smart Mobile Banking Application
 
 ## Overview
 
